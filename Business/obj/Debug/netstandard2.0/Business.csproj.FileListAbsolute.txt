@@ -1,0 +1,12 @@
+C:\Users\CANSU\source\repos\MaskeTakip\Business\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\CANSU\source\repos\MaskeTakip\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\Users\CANSU\source\repos\MaskeTakip\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\CANSU\source\repos\MaskeTakip\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\CANSU\source\repos\MaskeTakip\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\CANSU\source\repos\MaskeTakip\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\CANSU\source\repos\MaskeTakip\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Users\CANSU\source\repos\MaskeTakip\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\CANSU\source\repos\MaskeTakip\Business\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\CANSU\source\repos\MaskeTakip\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+C:\Users\CANSU\source\repos\MaskeTakip\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\CANSU\source\repos\MaskeTakip\Business\obj\Debug\netstandard2.0\Business.pdb
